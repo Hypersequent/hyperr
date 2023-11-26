@@ -1,4 +1,4 @@
-module github.com/hypersequent/tms/packages/hyperr
+module github.com/hypersequent/hyperr
 
 go 1.21
 
